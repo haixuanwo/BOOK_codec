@@ -1,0 +1,15 @@
+09:00:23 **** Incremental Build of configuration Debug for project SDL_11 ****
+make all 
+Building file: ../src/SDL_11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/SDL_11.d" -MT"src/SDL_11.d" -o "src/SDL_11.o" "../src/SDL_11.cpp"
+Finished building: ../src/SDL_11.cpp
+ 
+Building target: SDL_11
+Invoking: GCC C++ Linker
+g++  -o "SDL_11"  ./src/SDL_11.o   -lSDL -lSDL_image -lSDL_ttf -lSDL_mixer
+Finished building target: SDL_11
+ 
+
+09:00:25 Build Finished (took 2s.66ms)
+

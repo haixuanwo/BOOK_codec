@@ -31,8 +31,24 @@ Status InitList(SqList *L)
 	return OK;
 }
 
-Status ListEmpty()
+Status ListEmpty(SqList L)
 {
-
+	if(0 == L.length)
+		return TRUE;
+	else
+		return FALSE;
 }
+
+Status ClearList(SqList *L)
+{
+	L->length = 0;
+	return OK;
+}
+
+int ListLength(SqList L)
+{
+	return L.length;
+}
+
+
 

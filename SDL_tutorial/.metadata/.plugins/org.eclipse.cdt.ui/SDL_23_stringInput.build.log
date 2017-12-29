@@ -1,0 +1,6 @@
+10:45:12 **** Incremental Build of configuration Debug for project SDL_23_stringInput ****
+make all 
+make: 没有什么可以做的为 `all'。
+
+10:45:12 Build Finished (took 97ms)
+

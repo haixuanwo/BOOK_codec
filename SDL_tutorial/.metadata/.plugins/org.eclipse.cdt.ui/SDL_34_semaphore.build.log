@@ -1,0 +1,6 @@
+10:03:54 **** Incremental Build of configuration Debug for project SDL_34_semaphore ****
+make all 
+make: 没有什么可以做的为 `all'。
+
+10:03:55 Build Finished (took 226ms)
+

@@ -1,0 +1,198 @@
+!SESSION 2017-09-29 09:16:59.747 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.7.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=zh_CN
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-09-29 09:22:00.583
+!MESSAGE Indexed 'sdl1' (1 sources, 100 headers) in 11.92 sec: 8,184 declarations; 14,202 references; 0 unresolved inclusions; 0 syntax errors; 4 unresolved names (0.02%)
+!SESSION 2017-09-30 10:55:40.775 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.7.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=zh_CN
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.core.resources 2 10035 2017-09-30 10:55:45.187
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+!SESSION 2017-09-30 11:00:40.590 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.7.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=zh_CN
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.core.resources 2 10035 2017-09-30 11:02:03.056
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+!SESSION 2017-09-30 11:04:51.864 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.7.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=zh_CN
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.core.resources 2 10035 2017-09-30 11:04:58.682
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+!SESSION 2017-10-10 11:23:07.660 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.7.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=zh_CN
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.core.resources 2 10035 2017-10-10 11:23:42.618
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-10-10 11:29:19.253
+!MESSAGE Indexed 'SDL_3' (1 sources, 100 headers) in 9.00 sec: 8,184 declarations; 14,202 references; 0 unresolved inclusions; 0 syntax errors; 4 unresolved names (0.02%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-10-10 11:49:53.502
+!MESSAGE Indexed 'SDL_4' (1 sources, 100 headers) in 5.20 sec: 8,184 declarations; 14,202 references; 0 unresolved inclusions; 0 syntax errors; 4 unresolved names (0.02%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-10-10 16:53:35.149
+!MESSAGE Indexed 'SDL_5' (1 sources, 100 headers) in 2.31 sec: 8,184 declarations; 14,202 references; 0 unresolved inclusions; 0 syntax errors; 4 unresolved names (0.02%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-10-10 17:05:30.449
+!MESSAGE Indexed 'SDL_6' (1 sources, 100 headers) in 2.48 sec: 8,184 declarations; 14,202 references; 0 unresolved inclusions; 0 syntax errors; 4 unresolved names (0.02%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-10-10 17:10:27.999
+!MESSAGE Indexed 'SDL_7' (1 sources, 100 headers) in 2.26 sec: 8,184 declarations; 14,202 references; 0 unresolved inclusions; 0 syntax errors; 4 unresolved names (0.02%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-10-10 17:26:06.619
+!MESSAGE Indexed 'SDL_8' (1 sources, 100 headers) in 2.27 sec: 8,184 declarations; 14,202 references; 0 unresolved inclusions; 0 syntax errors; 4 unresolved names (0.02%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-10-10 17:39:03.140
+!MESSAGE Indexed 'SDL_9' (1 sources, 100 headers) in 1.74 sec: 8,184 declarations; 14,202 references; 0 unresolved inclusions; 0 syntax errors; 4 unresolved names (0.02%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-10-10 17:57:05.799
+!MESSAGE Indexed 'SDL_10' (1 sources, 100 headers) in 2.13 sec: 8,184 declarations; 14,202 references; 0 unresolved inclusions; 0 syntax errors; 4 unresolved names (0.02%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-10-10 18:17:28.111
+!MESSAGE Indexed 'SDL_11' (1 sources, 100 headers) in 2.38 sec: 8,184 declarations; 14,202 references; 0 unresolved inclusions; 0 syntax errors; 4 unresolved names (0.02%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-10-11 09:01:24.683
+!MESSAGE Indexed 'SDL_12' (1 sources, 100 headers) in 3.63 sec: 8,184 declarations; 14,202 references; 0 unresolved inclusions; 0 syntax errors; 4 unresolved names (0.02%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-10-11 09:21:50.180
+!MESSAGE Indexed 'SDL_13' (1 sources, 100 headers) in 4.65 sec: 8,184 declarations; 14,202 references; 0 unresolved inclusions; 0 syntax errors; 4 unresolved names (0.02%)
+!SESSION 2017-10-11 09:27:28.224 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.7.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=zh_CN
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-10-11 09:34:27.842
+!MESSAGE Indexed 'SDL_14' (1 sources, 100 headers) in 10.50 sec: 8,184 declarations; 14,202 references; 0 unresolved inclusions; 0 syntax errors; 4 unresolved names (0.02%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-10-11 11:41:16.219
+!MESSAGE Indexed 'SDL_15' (1 sources, 100 headers) in 8.53 sec: 8,184 declarations; 14,202 references; 0 unresolved inclusions; 0 syntax errors; 4 unresolved names (0.02%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-10-11 12:45:14.704
+!MESSAGE Indexed 'SDL_16_motion' (1 sources, 100 headers) in 3.87 sec: 8,184 declarations; 14,202 references; 0 unresolved inclusions; 0 syntax errors; 4 unresolved names (0.02%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-10-11 12:50:56.106
+!MESSAGE Indexed 'SDL_17_collisionCheck' (1 sources, 100 headers) in 3.56 sec: 8,184 declarations; 14,202 references; 0 unresolved inclusions; 0 syntax errors; 4 unresolved names (0.02%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-10-11 13:00:25.978
+!MESSAGE Indexed 'SDL_18_ccpixel' (1 sources, 100 headers) in 2.17 sec: 8,184 declarations; 14,202 references; 0 unresolved inclusions; 0 syntax errors; 4 unresolved names (0.02%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-10-11 16:10:58.889
+!MESSAGE Indexed 'SDL_19_cccircle' (1 sources, 100 headers) in 2.88 sec: 8,184 declarations; 14,202 references; 0 unresolved inclusions; 0 syntax errors; 4 unresolved names (0.02%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-10-11 16:27:48.196
+!MESSAGE Indexed 'SDL_20_cartoon' (1 sources, 100 headers) in 3.42 sec: 8,184 declarations; 14,202 references; 0 unresolved inclusions; 0 syntax errors; 4 unresolved names (0.02%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-10-11 17:11:23.188
+!MESSAGE Indexed 'SDL_21_roll' (1 sources, 100 headers) in 1.99 sec: 8,184 declarations; 14,202 references; 0 unresolved inclusions; 0 syntax errors; 4 unresolved names (0.02%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-10-11 17:14:34.569
+!MESSAGE Indexed 'SDL_roll_background' (1 sources, 100 headers) in 1.88 sec: 8,184 declarations; 14,202 references; 0 unresolved inclusions; 0 syntax errors; 4 unresolved names (0.02%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-10-12 09:14:08.009
+!MESSAGE Indexed 'SDL_22_roll_background' (1 sources, 100 headers) in 2.13 sec: 8,184 declarations; 14,202 references; 0 unresolved inclusions; 0 syntax errors; 4 unresolved names (0.02%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-10-12 10:43:26.633
+!MESSAGE Indexed 'SDL_23_stringInput' (1 sources, 100 headers) in 1.96 sec: 8,184 declarations; 14,202 references; 0 unresolved inclusions; 0 syntax errors; 4 unresolved names (0.02%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-10-12 11:06:53.828
+!MESSAGE Indexed 'SDL_saveState' (1 sources, 100 headers) in 2.08 sec: 8,184 declarations; 14,202 references; 0 unresolved inclusions; 0 syntax errors; 4 unresolved names (0.02%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-10-12 12:41:56.484
+!MESSAGE Indexed 'SDL_24_saveState' (1 sources, 100 headers) in 2.83 sec: 8,184 declarations; 14,202 references; 0 unresolved inclusions; 0 syntax errors; 4 unresolved names (0.02%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-10-12 12:51:30.805
+!MESSAGE Indexed 'SDL_25_joystick' (1 sources, 100 headers) in 2.50 sec: 8,184 declarations; 14,202 references; 0 unresolved inclusions; 0 syntax errors; 4 unresolved names (0.02%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-10-12 12:56:29.368
+!MESSAGE Indexed 'SDL_26_windows' (1 sources, 100 headers) in 1.80 sec: 8,184 declarations; 14,202 references; 0 unresolved inclusions; 0 syntax errors; 4 unresolved names (0.02%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-10-12 14:01:48.753
+!MESSAGE Indexed 'SDL_27_alphaMixture' (1 sources, 100 headers) in 2.41 sec: 8,184 declarations; 14,202 references; 0 unresolved inclusions; 0 syntax errors; 4 unresolved names (0.02%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-10-12 14:17:54.879
+!MESSAGE Indexed 'SDL_28_ParticleEngine' (1 sources, 100 headers) in 1.89 sec: 8,184 declarations; 14,202 references; 0 unresolved inclusions; 0 syntax errors; 4 unresolved names (0.02%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-10-12 14:23:54.027
+!MESSAGE Indexed 'SDL_29_Tiled' (1 sources, 100 headers) in 2.56 sec: 8,184 declarations; 14,202 references; 0 unresolved inclusions; 0 syntax errors; 4 unresolved names (0.02%)
+!SESSION 2017-10-12 17:47:31.296 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.7.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=zh_CN
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.core.resources 2 10035 2017-10-12 17:56:08.460
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-10-12 18:32:26.372
+!MESSAGE Indexed 'SDL_30_BitmapFonts' (1 sources, 100 headers) in 12.04 sec: 8,184 declarations; 14,202 references; 0 unresolved inclusions; 0 syntax errors; 4 unresolved names (0.02%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-10-12 18:36:47.485
+!MESSAGE Indexed 'SDL_30_pixelSurface' (1 sources, 100 headers) in 5.22 sec: 8,184 declarations; 14,202 references; 0 unresolved inclusions; 0 syntax errors; 4 unresolved names (0.02%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-10-12 18:38:21.627
+!MESSAGE Indexed 'SDL_31_pixerSurface' (1 sources, 100 headers) in 3.69 sec: 8,184 declarations; 14,202 references; 0 unresolved inclusions; 0 syntax errors; 4 unresolved names (0.02%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-10-12 18:46:24.462
+!MESSAGE Indexed 'SDL_32_frameMotion' (1 sources, 100 headers) in 4.03 sec: 8,184 declarations; 14,202 references; 0 unresolved inclusions; 0 syntax errors; 4 unresolved names (0.02%)
+!SESSION 2017-10-12 18:53:58.382 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.7.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=zh_CN
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.core.resources 2 10035 2017-10-12 18:54:01.996
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-10-12 18:55:02.383
+!MESSAGE Indexed 'SDL_33_thread' (1 sources, 100 headers) in 11.32 sec: 8,184 declarations; 14,202 references; 0 unresolved inclusions; 0 syntax errors; 4 unresolved names (0.02%)
+!SESSION 2017-10-13 09:09:10.670 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.7.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=zh_CN
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.core.resources 2 10035 2017-10-13 09:10:24.685
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-10-13 09:57:11.053
+!MESSAGE Indexed 'SDL_semaphore' (1 sources, 100 headers) in 11.44 sec: 8,184 declarations; 14,202 references; 0 unresolved inclusions; 0 syntax errors; 4 unresolved names (0.02%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-10-13 10:00:33.118
+!MESSAGE Indexed 'SDL_34_semaphore' (1 sources, 100 headers) in 5.93 sec: 8,184 declarations; 14,202 references; 0 unresolved inclusions; 0 syntax errors; 4 unresolved names (0.02%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-10-13 10:05:10.803
+!MESSAGE Indexed 'SDL_35_mutexCondition' (1 sources, 100 headers) in 5.28 sec: 8,184 declarations; 14,202 references; 0 unresolved inclusions; 0 syntax errors; 4 unresolved names (0.02%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-10-13 10:23:43.112
+!MESSAGE Indexed 'SDL_36_openGL' (1 sources, 100 headers) in 2.26 sec: 8,184 declarations; 14,202 references; 0 unresolved inclusions; 0 syntax errors; 4 unresolved names (0.02%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-10-13 11:21:45.997
+!MESSAGE Indexed 'SDL_2' (1 sources, 100 headers) in 2.70 sec: 8,184 declarations; 14,202 references; 0 unresolved inclusions; 0 syntax errors; 4 unresolved names (0.02%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-10-13 11:30:51.487
+!MESSAGE Indexed 'SDL_1' (1 sources, 100 headers) in 2.30 sec: 8,184 declarations; 14,202 references; 0 unresolved inclusions; 0 syntax errors; 4 unresolved names (0.02%)

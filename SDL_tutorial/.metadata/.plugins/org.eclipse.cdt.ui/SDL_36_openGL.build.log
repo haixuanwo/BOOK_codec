@@ -1,0 +1,6 @@
+11:17:31 **** Incremental Build of configuration Debug for project SDL_36_openGL ****
+make all 
+make: 没有什么可以做的为 `all'。
+
+11:18:10 Build Finished (took 38s.494ms)
+

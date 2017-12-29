@@ -1,0 +1,6 @@
+12:55:48 **** Incremental Build of configuration Debug for project SDL_25_joystick ****
+make all 
+make: 没有什么可以做的为 `all'。
+
+12:55:48 Build Finished (took 71ms)
+

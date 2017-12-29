@@ -1,0 +1,6 @@
+11:10:47 **** Incremental Build of configuration Debug for project SDL_35_mutexCondition ****
+make all 
+make: 没有什么可以做的为 `all'。
+
+11:10:47 Build Finished (took 167ms)
+

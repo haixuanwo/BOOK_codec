@@ -1,0 +1,6 @@
+12:44:04 **** Incremental Build of configuration Debug for project SDL_4 ****
+make all 
+make: 没有什么可以做的为 `all'。
+
+12:44:04 Build Finished (took 105ms)
+
